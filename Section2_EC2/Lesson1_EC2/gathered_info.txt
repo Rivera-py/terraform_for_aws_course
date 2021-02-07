@@ -1,0 +1,1 @@
+AMI_ID = ami-0e80a462ede03e653
